@@ -1,6 +1,6 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
-![CodeSchool Score](eshalazar.github.io/unit1_projects/images/)
+![CodeSchool Score](DBC/eshalazar.github.io/unit1_projects/images/)
 
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
@@ -8,7 +8,7 @@
 * Explain which tabs support the following actions and how.
   * Realtime editing of HTML and CSS
 
-  The elements tab provides access to both the html and css for inline editing. To save changes, you would also have to utlize the sources tab.
+  #####The elements tab provides access to both the html and css for inline editing. To save changes, you would also have to utlize the sources tab.
 
   * Javascript Debugging
 
