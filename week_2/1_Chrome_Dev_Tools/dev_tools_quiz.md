@@ -1,6 +1,6 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
-![CodeSchool Score](DBC/ehsalazar.github.io/unit1_projects/images/codeschool_score.png)
+![CodeSchool Score](https://github.com/ehsalazar/ehsalazar.github.io/blob/master/unit1_projects/images/codeschool_score.png?raw=true)
 
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
@@ -31,7 +31,7 @@
   * Now take a screenshot of your new (and maybe not so improved) design.  It should match this screenshot: http://postimg.org/image/5ak1jkpl5/
   * Upload your own image to the web using an image hosting service.  It should match the image above. The last nav link in the image above is black because the mouse was hovering there when the screenshot was taken. Do the same, and don't take a screenshot of your whole desktop, just the browser window. (This is part of the challenge.)
 
-  ![Postmacina Edits](DBC/ehsalazar.github.io/unit1_projects/images/postmachina_edits.png)
+![Postmacina Edits](https://github.com/ehsalazar/ehsalazar.github.io/blob/master/unit1_projects/images/postmachina_edits.png?raw=true)
 
 * For the postmachina website, why can't you tweak the color of the text "The most important things are not things"?  Please explain.
 
