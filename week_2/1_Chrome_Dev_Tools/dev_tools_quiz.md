@@ -1,6 +1,6 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
-![CodeSchool Score](DBC/eshalazar.github.io/unit1_projects/images/)
+![CodeSchool Score](https://github.com/ehsalazar/ehsalazar.github.io/blob/master/unit1_projects/images/codeschool_score.png?raw=true)
 
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
@@ -8,19 +8,19 @@
 * Explain which tabs support the following actions and how.
   * Realtime editing of HTML and CSS
 
-  #####The elements tab provides access to both the html and css for inline editing. To save changes, you would also have to utlize the sources tab.
+  #####The elements tab provides access to both the html and css for inline editing. To save changes, you would also have to utilize the sources tab.
 
   * Javascript Debugging
 
-  The console tab acts both as console to log to but also a CLI to run JavaScript. Once again, the sources tab can be used in conjunction for realtime debugging as well as saving modifications. 
+  #####The console tab acts both as console to log to but also a CLI to run JavaScript. Once again, the sources tab can be used in conjunction for realtime debugging as well as saving modifications. 
 
   * Performance Optimization 
 
-  The network tab will provide the both a visual waterfall of load times and delays as well as component sizes and issues. It can be paired with extention add-ons like PageSpeed Insight which identify optimization paths for improved performance.
+  #####The network tab will provide the both a visual waterfall of load times and delays as well as component sizes and issues. It can be paired with extension add-ons like PageSpeed Insight which identify optimization paths for improved performance.
 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
 
-  option + command + I
+  #####option + command + I
 
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
   * What is the current background color for the page?  (Surprisingly, it's not just black!)
