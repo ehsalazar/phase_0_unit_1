@@ -1,40 +1,68 @@
-// I paired [by myself, with:] on this challenge.
-
-
-
+// I paired [with: Matthew Darin & Puru Dahal] on this challenge.
 
 // Pseudocode
-// 
-// 
-// 
-// 
-
+// 1. Assign a number to the variable secretNumber.
+// 2. Assign 7 to the variable secretNumber.
+// 3. Assign a string value to a variable password.
+// 4. Assign the password with 'just open the door'
+// 5. Assign a boolean to variable allowedIn.
+// 6. Change the boolean assignment of the variable allowedIn to false.
+// 7. Define an empty array called members.
+// 8. Add 'John' as the first element of members array.
+// 9. Add 3 more elements to the array members, but make sure the 4th one is 'Mary'
 
 // __________________________________________
 // Write your code below.
 
-
-
-
-
-
+var secretNumber = 10;
+var secretNumber = 7;
+var password = "P@ssw0rd";
+var password = "just open the door";
+var allowedIn = 1 < 5;
+var allowedIn = false;
+var members = [];
+var members = ["John"];
+var members = ["John", "Sue", "Ellen", "Mary"];
 
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
 
+// While the original code is pretty straight forward it may make more sense to refactor the final two steps.
+// By doing so, it becomes more inline with our pseudocode while remaining condensed and readable.
 
-
-
+var secretNumber = 10;
+var secretNumber = 7;
+var password = "P@ssw0rd";
+var password = "just open the door";
+var allowedIn = 1 < 5;
+var allowedIn = false;
+var members = [];
+members.push("John");
+members.push("Sue", "Ellen", "Mary");
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
-// 
-// 
-// 
 
+// Working with a partner/s really made the process much simpler. Once we all established the expectations, 
+// we jumped into solving for each error. The challenge was to remember to not dive right into the code but to 
+// think it through and pseudocode first. 
+
+// While none of us were that versed in JavaScript we were able to make it through fairly easily. 
+// We then completed the refactoring and reflections on our own. My only remaining question remains around the refactoring. 
+// How much is over refactoring. For example, the final three steps can be condensed into one assignment with the 
+// driver test remaining at all true.
+
+// var secretNumber = 10;
+// var secretNumber = 7;
+// var password = "P@ssw0rd";
+// var password = 'just open the door';
+// var allowedIn = 1 < 5;
+// var allowedIn = false;
+// var members = ["John", "Sue", "Ellen", "Mary"];
+
+// However, is this over simplifying it after the fact? I’m not sure. Apart from that, I feel confident in the 
+// Learning Competencies and the materials covered. I enjoyed the process of overcoming the errors in the driver code. 
+// In a sense, it was like working through and solving a riddle. 
 
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
