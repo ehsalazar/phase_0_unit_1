@@ -59,26 +59,26 @@ Define the following commands and describe how they work/what they do.
 
 - Push files to a remote repository
 
-	1. Add files or make changes to files in the desired repository.
-	2. Using the command line and cd, navigate to the that desired repo.
-	3. **git status** to ensure your changes are recognized.
-	4. ** git add [filename]** or **git add .** to stage the changes.
-	5. **git commit -m “[commit message]”** to commit and create snapshot.
-	6. Finally, **git push origin master** to sync the commit with the remote repo on Github.
+	- Add files or make changes to files in the desired repository.
+	- Using the command line and cd, navigate to the that desired repo.
+	- **git status** to ensure your changes are recognized.
+	- **git add [filename]** or **git add .** to stage the changes.
+	- **git commit -m “[commit message]”** to commit and create snapshot.
+	- Finally, **git push origin master** to sync the commit with the remote repo on Github.
 
 - Fetch changes
 
-	1. You will need to check the current remote using **git remote -v** then if needed, use **git remote add upstream [url from where you want to fetch]** to add a new remote. 
-	2. Repeat step one to verify new remote.
-	3. **git fetch upstream** to pull the changes you want into a new local branch you use to merge with you branch.
-	4. Ensure you on your master branch with **git branch** and checkout if you need to switch to it. 
-	5. **git merge upstream/master** to merge the fetched branch with your master branch.
-	6. **git commit -m “[commit message]”** to commit the added changes and finally **git push origin master** to sync with the remote repo.
+	- You will need to check the current remote using **git remote -v** then if needed, use **git remote add upstream [url from where you want to fetch]** to add a new remote. 
+	- Repeat step one to verify new remote.
+	- **git fetch upstream** to pull the changes you want into a new local branch you use to merge with you branch.
+	- Ensure you on your master branch with **git branch** and checkout if you need to switch to it. 
+	- **git merge upstream/master** to merge the fetched branch with your master branch.
+	- **git commit -m “[commit message]”** to commit the added changes and finally **git push origin master** to sync with the remote repo.
 
 - Commit locally
 
-	1. Once files have been staged, use **git commit -m “[commit message]”** to save and snapshot the changes. 
-	2. When able, you then **git push origin master** to sync the commits you’ve made to the remote repo.
+	- Once files have been staged, use **git commit -m “[commit message]”** to save and snapshot the changes. 
+	- When able, you then **git push origin master** to sync the commits you’ve made to the remote repo.
 
 
 ## Release 5: Reflection
