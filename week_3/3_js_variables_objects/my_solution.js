@@ -27,18 +27,12 @@ var members = ["John", "Sue", "Ellen", "Mary"];
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
 
-// While the original code is pretty straight forward it may make more sense to refactor the final two steps.
-// By doing so, it becomes more inline with our pseudocode while remaining condensed and readable.
+// While the original code is pretty straight forward it may make more sense to refactor down to four steps.
 
-var secretNumber = 10;
 var secretNumber = 7;
-var password = "P@ssw0rd";
 var password = "just open the door";
-var allowedIn = 1 < 5;
 var allowedIn = false;
-var members = [];
-members.push("John");
-members.push("Sue", "Ellen", "Mary");
+var members = ["John", "Sue", "Ellen", "Mary"];
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
@@ -49,16 +43,7 @@ members.push("Sue", "Ellen", "Mary");
 
 // While none of us were that versed in JavaScript we were able to make it through fairly easily. 
 // We then completed the refactoring and reflections on our own. My only remaining question remains around the refactoring. 
-// How much is over refactoring. For example, the final three steps can be condensed into one assignment with the 
-// driver test remaining at all true.
-
-// var secretNumber = 10;
-// var secretNumber = 7;
-// var password = "P@ssw0rd";
-// var password = 'just open the door';
-// var allowedIn = 1 < 5;
-// var allowedIn = false;
-// var members = ["John", "Sue", "Ellen", "Mary"];
+// How much is over refactoring? I guess going down to the bare minimum of four steps to pass the test is the goal.
 
 // However, is this over simplifying it after the fact? I’m not sure. Apart from that, I feel confident in the 
 // Learning Competencies and the materials covered. I enjoyed the process of overcoming the errors in the driver code. 
