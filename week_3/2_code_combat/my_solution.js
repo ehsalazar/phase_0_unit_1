@@ -189,8 +189,8 @@ this.attackXY(49, 53);
 //
 //   - What is `this` referring to? Think programming-wise rather than in the terms of the game. 
 
-//   	- The soldier Tharin is set to the variable "this". We can then use the variable to call its local 
-//		functions which make Tharin move and speak. 
+//   	- Keyword "this" is a placeholder that refers to whichever object called the method or function. 
+//		- Using "this" allows for methods and functions to be used beyond a single object. 
 
 //   - What does the `()` do in JavaScript?
 
