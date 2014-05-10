@@ -12,7 +12,7 @@ Define the following commands and describe how they work/what they do.
 
 #### checkout
 
-> Checkout a branch or paths to the working tree. A command that can typically be used as such: **$ git checkout [branch]** to switch from your current branch to the branch specified or  **$ git checkout -b [branchname] to both create and then switch to a branch.
+> Checkout a branch or paths to the working tree. A command that can typically be used as such: **$ git checkout [branch]** to switch from your current branch to the branch specified or  **$ git checkout -b [branchname]** to both create and then switch to a branch.
 
 #### clone
 
